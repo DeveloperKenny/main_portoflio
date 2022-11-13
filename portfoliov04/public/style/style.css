@@ -1,0 +1,21 @@
+body {
+    background-image: url('../images/person.jpg');
+    background-color: black;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+.intro-title {
+    color: white;
+    font-size: 4rem;
+    margin-left: 200px;
+    margin-top: 400px;
+}
+
+.intro-name {
+    font-size: 4rem;
+    margin-left: 200px;
+    
+}
+
