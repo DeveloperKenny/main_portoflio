@@ -1,0 +1,33 @@
+section {
+    height: 50vh;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 80px;
+}
+
+.card {
+    margin: 4px;
+}
+.hello-text {
+    font-size: 22px;
+    font-weight: 500;
+    color: #482EA6;
+}
+.name-text {
+    font-size: 48px;
+    font-weight: 600;
+    color: #0A0140;
+}
+.title-text {
+    font-size: 22px;
+    font-weight: 500;
+    color: #482EA6;
+}
+
+.example-app-pic {
+    width: 300px;
+}
